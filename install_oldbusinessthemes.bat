@@ -1,7 +1,7 @@
 :: Older Business Themes Installer
 :: Author: yugandar's world animator#5697
 :: License: MIT
-title Older Business Themes Installer [Initializing...]
+title Older Business Themes [Initializing...]
 
 ::::::::::::::::::::
 :: Initialization ::
@@ -109,7 +109,7 @@ title Older Business Themes Installer Installer
 :cls
 cls
 
-echo Vyond Legacy Offline Installer
+echo Older Business Themes Installer Installer
 echo Project lead by Yugandar's World Animator. Installer is requested by Joseph Animate 2022.
 echo:
 echo Enter 1 to install Older Business Themes Installer
